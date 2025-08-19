@@ -1,6 +1,6 @@
 # Acme SaaS - Frontend Application
 
-<img width="3024" height="1660" alt="Image" src="https://github.com/user-attachments/assets/308604ee-5b8f-47af-8d09-4e11e679efdd" />
+![Image](https://github.com/user-attachments/assets/b9e3b68e-2650-4c95-aaf0-42bdfeabf87d)
 
 A modern SaaS landing page template built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Magic UI](https://magicui.design/) components. This project showcases a complete frontend solution for AI-powered SaaS applications with beautiful animations and responsive design.
 
